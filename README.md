@@ -1,1 +1,1 @@
-# THE_COLOURFUL_TREX
+# T-Rex-Runner-Color
